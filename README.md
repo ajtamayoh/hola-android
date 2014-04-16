@@ -1,0 +1,1 @@
+Esta es mi primera app para android. Solo busca, no importa si es de forma desordenada, probar funcionalidades y ser despelegada en los dipositivos móviles. Está desarrollada con apache cordova, todo por línea de comandos desde linux/ubuntu.
