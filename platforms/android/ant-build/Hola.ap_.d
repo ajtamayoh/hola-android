@@ -23,5 +23,6 @@
 /home/antonio/hola/platforms/android/assets/www/js/index.js \
 /home/antonio/hola/platforms/android/assets/www/img/logo.png \
 /home/antonio/hola/platforms/android/assets/www/img/logo_old.png \
+/home/antonio/hola/platforms/android/assets/www/img/ph.jpg \
 /home/antonio/hola/platforms/android/assets/www/img/logo.resized.png \
 /home/antonio/hola/platforms/android/ant-build/AndroidManifest.xml \

@@ -13,4 +13,5 @@
     <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
     <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
     <plugin name="Device" value="org.apache.cordova.Device" />
+    <plugin name="Media" value="org.apache.cordova.AudioHandler" />
 </widget>
